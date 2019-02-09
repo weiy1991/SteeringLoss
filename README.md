@@ -6,7 +6,7 @@ This repository contains kernel algorithms of SteeringLoss framework based on Nv
 
 The overview of the imbalanced training for steering prediction is as following:
 
-![IV2019](./image_introduction/overview.png)
+![IV2019](./image_introduction/overview.jpg)
 
 ### Dependencies
 This requires:
